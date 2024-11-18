@@ -1,1 +1,21 @@
-"body { margin: 0 }" 
+html {
+  font-size: 16px; 
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Header Title */
+header h1 {
+  font-weight: normal;
+  font-size: 3.125rem;
+  color: white;
+}
+
+/* Body */
+
+a {
+  color: aquamarine;
+}
